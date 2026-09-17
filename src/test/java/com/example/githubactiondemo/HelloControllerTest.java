@@ -13,7 +13,7 @@ public class HelloControllerTest {
         String result = controller.hello();
 
         assertEquals(
-                "Hello from Coder Army! Welcome back!",
+                "Hello from Coder Army! Welcome back",
                 result
         );
     }
